@@ -6,26 +6,22 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+tools+for+performance%2C+automation+and+control;Rust+Plugin+Developer+%7C+Android+Security+Engineering;AI-assisted+Coding+%7C+Systems+Optimization+%7C+UI+Engineering" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/你的用户名">
+  <a href="https://github.com/wangye520">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/你的linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:你的邮箱">
+  <a href="mailto:390162131@qq.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/你的账号">
+  <a href="https://t.me/wyowe">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
 </div>
-
 ---
-
 ## 🚀 About Me
-
 - 🔧 专注方向：**逆向工程 / Android ARM64 / Rust 插件开发 / 游戏服务端工具链**
 - 🧠 擅长：**C++ / Kotlin / Java / Python / Web Admin 面板 / 自动化脚本**
 - ⚙️ 在做的事：
@@ -33,13 +29,11 @@
   - Rust 插件系统与管理端 UI 优化
   - 多模型协作开发工作流（AI-assisted engineering）
 - 🎯 目标：做出 **高可控、高性能、可维护** 的工具链与后台系统
-
 ---
 
 ## 🛠 Tech Stack
-
 <div align="center">
-
+  
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,python,js,ts,bash" />
 
@@ -48,13 +42,11 @@
 
 ### DevOps / Platform
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,androidstudio" />
-
 </div>
 
 ---
 
 ## 📌 Featured Projects
-
 ### 1) 🔐 ELF / SO Encryption Platform
 > Android ARM64 二进制加密平台（网页端 + 后端 + 加密核心）
 - 多模型协作优化加密强度 / 兼容性 / 性能
@@ -78,18 +70,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=github_dark&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=github-compact&hide_border=true&area=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wangye520&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangye520&layout=compact&theme=github_dark&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wangye520&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
 ---
-
 ## 🧩 What I Care About
-
 - ✅ 性能（Performance）
 - ✅ 稳定性（Stability）
 - ✅ 安全性（Security）
@@ -99,15 +87,10 @@
 ---
 
 ## 📬 Contact
-
-- Email: `你的邮箱`
-- GitHub: [@你的用户名](https://github.com/你的用户名)
-- LinkedIn: [你的主页](https://www.linkedin.com/in/你的linkedin)
-
+- Email: `390162131@qq.com`
+- GitHub: [@望夜520](https://github.com/wangye520)
 ---
-
 <div align="center">
-
+  
 ### ⚡ “Build tools that give full control.”
-
 </div>
